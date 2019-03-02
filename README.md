@@ -1,2 +1,0 @@
-# MLSeminar
-study
